@@ -16,7 +16,7 @@ This project integrates the Gemini API to automatically generate concise and mea
 ### **1. Clone the Repository**
 
 ```sh
-git clone [https://github.com/yourusername/gemini-commit.git]
+git clone https://github.com/ZakariaAit51/gemini-commit-generator.git
 cd gemini-commit
 ```
 
